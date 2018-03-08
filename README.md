@@ -167,4 +167,6 @@ My accepted leetcode solutions to some of the common interview problems.
 
 #### [what i learned]
  - [最小二叉树树长度](problems/src/SumRootToLeafNumbers/SumRootToLeafNumbers.java)(Medium)
+ - [Triangle三角形二叉树求最小的路径的和](problems/src/question_ranking/SumRootToLeafNumbers.java)(Medium)
+
 
